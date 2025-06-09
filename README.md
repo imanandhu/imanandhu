@@ -10,7 +10,13 @@
 - **Languages:** Java, JavaScript,Python 
 - **Automation Tools:** Selenium WebDriver, TestNG, Cypress, RestAssured, Postman,K6, Burpsuite
 - **CI/CD:** Maven, GitHub Actions  
-- **Others:** SQL, API Testing, Agile, Jira, Confluence  
+- **Others:** SQL, API Testing, Agile, Jira, Confluence
+
+## 📊 GitHub Stats
+
+![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanandhu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanandhu&layout=compact&theme=radical)
 
 ## 📂 Projects
 - [RestAssured API Testing](https://github.com/imanandhu/restassured-api-testing) – API automation with Java & TestNG  
