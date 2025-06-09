@@ -14,8 +14,6 @@
 
 ## 📊 GitHub Stats
 
-![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanandhu&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imanandhu&layout=compact&theme=radical)
 
 ## 📂 Projects
