@@ -21,7 +21,7 @@
 - [Cypress UI Automation](https://github.com/imanandhu/cypress-ui-automation) – Frontend testing with Cypress  
 - [Selenium POM Login Tests](https://github.com/imanandhu/selenium-pom-login-tests) – Selenium tests using Page Object Model
 - [Python API Automation](https://github.com/imanandhu/api-automation-framework)-REST API test framework using requests & pytest
-- https://github.com/imanandhu/K6-automation-project - K6 Automation
+- [K6 Load Testing Suite](https://github.com/imanandhu/K6-automation-project)-Load testing REST APIs with K6 and JS 
 
 ## 📫 Connect with me
 - Email:anandhusuresh321@gmail.com  
